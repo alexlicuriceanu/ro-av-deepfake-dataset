@@ -14,3 +14,41 @@
 2026-08-09 18:52:43,836 - DEBUG - [info] cxrYZLp079c: Downloading 1 format(s): 299+140
 2026-08-09 18:52:43,836 - DEBUG - [info] cxrYZLp079c: Downloading 1 time ranges: 136.0-468.0
 2026-08-09 18:52:43,901 - DEBUG - [download] Destination: ../videos_raw/maramures_Studio_cxrYZLp079c_136s-468s.mp4
+2026-08-09 19:19:37,324 - INFO - Starting: cxrYZLp079c [2:16-7:48 (136s-468s)]
+2026-08-09 19:19:37,453 - DEBUG - [youtube] Extracting URL: https://www.youtube.com/watch?v=cxrYZLp079c
+2026-08-09 19:19:37,454 - DEBUG - [youtube] cxrYZLp079c: Downloading webpage
+2026-08-09 19:19:38,332 - WARNING - [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+2026-08-09 19:19:38,338 - DEBUG - [youtube] cxrYZLp079c: Downloading android vr player API JSON
+2026-08-09 19:19:38,703 - DEBUG - [info] cxrYZLp079c: Downloading 1 format(s): 299+140
+2026-08-09 19:19:38,703 - DEBUG - [info] cxrYZLp079c: Downloading 1 time ranges: 136.0-468.0
+2026-08-09 19:19:39,040 - DEBUG - [download] Destination: ../videos_raw/maramures_studio_cxrYZLp079c_136s-468s.mp4
+2026-08-09 19:20:47,188 - INFO - Starting: cxrYZLp079c [2:16-7:48 (136s-468s)]
+2026-08-09 19:20:47,318 - DEBUG - [youtube] Extracting URL: https://www.youtube.com/watch?v=cxrYZLp079c
+2026-08-09 19:20:47,319 - DEBUG - [youtube] cxrYZLp079c: Downloading webpage
+2026-08-09 19:20:48,787 - WARNING - [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+2026-08-09 19:20:48,793 - DEBUG - [youtube] cxrYZLp079c: Downloading android vr player API JSON
+2026-08-09 19:20:49,162 - DEBUG - [info] cxrYZLp079c: Downloading 1 format(s): 299+140
+2026-08-09 19:20:49,162 - DEBUG - [info] cxrYZLp079c: Downloading 1 time ranges: 136.0-468.0
+2026-08-09 19:20:49,538 - DEBUG - [download] Destination: ../videos_raw/maramures_studio_cxrYZLp079c_136s-468s.mp4
+2026-08-09 19:26:48,263 - DEBUG - [download] Download completed
+2026-08-09 19:26:48,282 - INFO - [SUCCESS] Saved to maramures_studio_cxrYZLp079c_136s-468s.mp4
+2026-08-09 19:26:48,283 - INFO - Starting: BrqhuTzDAWk [0:00-9:29 (0s-569s)]
+2026-08-09 19:26:48,330 - DEBUG - [youtube] Extracting URL: https://www.youtube.com/watch?v=BrqhuTzDAWk
+2026-08-09 19:26:48,331 - DEBUG - [youtube] BrqhuTzDAWk: Downloading webpage
+2026-08-09 19:26:49,249 - WARNING - [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+2026-08-09 19:26:49,254 - DEBUG - [youtube] BrqhuTzDAWk: Downloading android vr player API JSON
+2026-08-09 19:26:49,538 - DEBUG - [info] BrqhuTzDAWk: Downloading 1 format(s): 299+140
+2026-08-09 19:26:49,539 - DEBUG - [info] BrqhuTzDAWk: Downloading 1 time ranges: 0.0-569.0
+2026-08-09 19:26:49,550 - DEBUG - [download] Destination: ../videos_raw/maramures_studio_BrqhuTzDAWk_0s-569s.mp4
+2026-08-09 19:26:49,767 - ERROR - 
+
+2026-08-09 19:26:49,767 - ERROR - [0;31mERROR:[0m ffmpeg exited with code 8
+2026-08-09 19:26:49,767 - ERROR - [FAILED] Error downloading BrqhuTzDAWk: [0;31mERROR:[0m ffmpeg exited with code 8
+2026-08-09 19:26:49,768 - INFO - Starting: QdTq_r1UP8E [5:55-13:04 (355s-784s)]
+2026-08-09 19:26:49,816 - DEBUG - [youtube] Extracting URL: https://www.youtube.com/watch?v=QdTq_r1UP8E
+2026-08-09 19:26:49,816 - DEBUG - [youtube] QdTq_r1UP8E: Downloading webpage
+2026-08-09 19:26:50,579 - WARNING - [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+2026-08-09 19:26:50,583 - DEBUG - [youtube] QdTq_r1UP8E: Downloading android vr player API JSON
+2026-08-09 19:26:50,880 - DEBUG - [info] QdTq_r1UP8E: Downloading 1 format(s): 299+140
+2026-08-09 19:26:50,881 - DEBUG - [info] QdTq_r1UP8E: Downloading 1 time ranges: 355.0-784.0
+2026-08-09 19:26:50,892 - DEBUG - [download] Destination: ../videos_raw/maramures_studio_QdTq_r1UP8E_355s-784s.mp4

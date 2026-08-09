@@ -1,0 +1,12 @@
+Bootstrap: docker
+From: python:3.12-slim
+
+%post
+    # Update packages and install ffmpeg (required by yt-dlp for stream merging)
+    apt-get update && apt-get install -y --no-install-recommends \
+        ffmpeg \
+        && rm -rf /var/lib/apt/lists/*
+
+    # Upgrade pip and install yt-dlp
+    pip install --no-cache-dir --upgrade pip
+    pip install --no-cache-dir yt-dlp tqdm
