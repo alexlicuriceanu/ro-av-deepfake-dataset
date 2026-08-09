@@ -1,0 +1,13 @@
+{
+    "csv_files": [
+        "../csv/maramures_data.csv"
+    ],
+    "output_dir": "../videos_raw",
+    "yt_dlp_options": {
+        "format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
+        "merge_output_format": "mp4",
+        "force_keyframes_at_cuts": true,
+        "quiet": false,
+        "no_warnings": false
+    }
+}
