@@ -12,7 +12,7 @@
         "merge_output_format": "mp4",
         "force_keyframes_at_cuts": true,
         "noprogress": true,
-        "quiet": true,
+        "quiet": false,
         "no_warnings": false
     }
 }
