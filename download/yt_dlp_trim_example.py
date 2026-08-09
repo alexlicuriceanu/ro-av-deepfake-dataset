@@ -41,5 +41,5 @@ if __name__ == "__main__":
         url=VIDEO_URL,
         start_time=10.0, 
         end_time=25.0,
-        output_filename="downloaded_trimmed_clip.%(ext)s"
+        output_filename="yt_dlp_trim_example.%(ext)s"
     )
