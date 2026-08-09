@@ -1,8 +1,12 @@
 {
     "csv_files": [
         {
-            "file": "../csv/maramures_videos.csv",
-            "dialect": "maramures"
+            "file": "../csv/transilvania_videos.csv",
+            "dialect": "transilvania"
+        },
+	{
+            "file": "../csv/moldova_videos.csv",
+            "dialect": "moldova"
         }
     ],
     "output_dir": "../videos_raw",
@@ -10,8 +14,14 @@
     "yt_dlp_options": {
         "format": "bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best",
         "merge_output_format": "mp4",
-        "force_keyframes_at_cuts": true,
-        "noprogress": true,
+        "force_keyframes_at_cuts": false,
+        "cookiefile": "youtube.com_cookies.txt",
+		"extractor_args": {
+            "youtube": {
+                "player_client": ["ios", "web"]
+            }
+        },
+		"noprogress": true,
         "quiet": false,
         "no_warnings": false
     }
