@@ -1,0 +1,24 @@
+{
+    "csv_files": [
+        {
+            "file": "../csv/muntenia_videos.csv",
+            "dialect": "muntenia"
+        },
+        {
+            "file": "../csv/rep_moldova_videos.csv",
+            "dialect": "rep_moldova"
+        },
+        {
+            "file": "../csv/transilvania_videos.csv",
+            "dialect": "transilvania"
+        },
+        {
+            "file": "../csv/moldova_videos.csv",
+            "dialect": "moldova"
+        },
+        {
+            "file": "../csv/maramures_videos.csv",
+            "dialect": "maramures"
+        }
+    ]
+}

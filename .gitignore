@@ -1,3 +1,4 @@
 *.sif
-./raw_videos/*.mp4
+./videos_raw/*.mp4
 www.youtube.com_cookies.txt
+youtube.com_cookies.txt
