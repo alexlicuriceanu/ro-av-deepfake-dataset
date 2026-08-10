@@ -1,12 +1,24 @@
 {
     "csv_files": [
         {
+            "file": "../csv/muntenia_videos.csv",
+            "dialect": "muntenia"
+        },
+        {
             "file": "../csv/transilvania_videos.csv",
             "dialect": "transilvania"
+        },
+        {
+            "file": "../csv/maramures_videos.csv",
+            "dialect": "maramures"
         },
 	    {
             "file": "../csv/moldova_videos.csv",
             "dialect": "moldova"
+        },
+        {
+            "file": "../csv/rep_moldova_videos.csv",
+            "dialect": "rep_moldova"
         }
     ],
     "output_dir": "../videos_raw",
@@ -16,13 +28,11 @@
         "merge_output_format": "mp4",
         "force_keyframes_at_cuts": false,
         "cookiefile": "www.youtube.com_cookies.txt",
-		"extractor_args": {
-            "youtube": {
-                "player_client": ["ios", "web"]
-            }
-        },
-		"noprogress": true,
+        "remote_components": ["ejs:github"],
+		"noprogress": false,
         "quiet": false,
-        "no_warnings": false
+        "no_warnings": false,
+        "sleep_interval": 5,
+        "max_sleep_interval": 15
     }
 }
