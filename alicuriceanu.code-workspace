@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - fep.grid.pub.ro",
+			"uri": "ssh://fep.grid.pub.ro/export/home/acs/stud/a/alicuriceanu"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "ro-av-deepfake/ro-av-deepfake-dataset",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
+	}
+}

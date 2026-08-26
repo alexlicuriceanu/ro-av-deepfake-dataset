@@ -1,0 +1,14 @@
+Bootstrap: docker
+From: pytorch/pytorch:2.1.0-cuda12.1-cudnn8-runtime
+
+%post
+    export DEBIAN_FRONTEND=noninteractive
+    echo 'APT::Sandbox::User "root";' > /etc/apt/apt.conf.d/sandbox-disable
+    
+    apt-get update
+    apt-get install -y fakeroot
+    
+    FAKEROOTDONTTRYCHOWN=1 fakeroot sh -c '
+        # Install system dependencies and python venv module
+        apt-get install -y git ffmpeg libsm6 libxext6 libgl1 libgles2 wget python3-venv
+    '

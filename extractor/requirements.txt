@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+soundfile
+silero-vad
+ultralytics
+tqdm
