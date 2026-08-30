@@ -1,0 +1,477 @@
+{
+  "clip_filename": "000_000048.333.mp4",
+  "source_video": "../videos_raw/moldova_itw_c_gwHHRy_so_full.mp4",
+  "speaker_track_id": 0,
+  "start_sec": 48.333,
+  "duration_sec": 7.492,
+  "boxes": [
+    {
+      "time_sec": 0.0,
+      "source_time_sec": 48.333,
+      "frame": 1160,
+      "bbox_xyxy": [
+        736.9,
+        294.4,
+        1117.5,
+        777.0
+      ],
+      "confidence": 0.8594,
+      "is_talking": true
+    },
+    {
+      "time_sec": 0.209,
+      "source_time_sec": 48.542,
+      "frame": 1165,
+      "bbox_xyxy": [
+        719.6,
+        251.6,
+        1101.0,
+        744.0
+      ],
+      "confidence": 0.8677,
+      "is_talking": true
+    },
+    {
+      "time_sec": 0.417,
+      "source_time_sec": 48.75,
+      "frame": 1170,
+      "bbox_xyxy": [
+        781.5,
+        241.5,
+        1150.5,
+        730.5
+      ],
+      "confidence": 0.8726,
+      "is_talking": true
+    },
+    {
+      "time_sec": 0.625,
+      "source_time_sec": 48.958,
+      "frame": 1175,
+      "bbox_xyxy": [
+        855.0,
+        232.5,
+        1222.5,
+        720.0
+      ],
+      "confidence": 0.8628,
+      "is_talking": true
+    },
+    {
+      "time_sec": 0.834,
+      "source_time_sec": 49.167,
+      "frame": 1180,
+      "bbox_xyxy": [
+        919.5,
+        255.4,
+        1279.5,
+        735.0
+      ],
+      "confidence": 0.8525,
+      "is_talking": true
+    },
+    {
+      "time_sec": 1.042,
+      "source_time_sec": 49.375,
+      "frame": 1185,
+      "bbox_xyxy": [
+        946.5,
+        265.5,
+        1303.5,
+        757.5
+      ],
+      "confidence": 0.8555,
+      "is_talking": true
+    },
+    {
+      "time_sec": 1.25,
+      "source_time_sec": 49.583,
+      "frame": 1190,
+      "bbox_xyxy": [
+        952.5,
+        271.9,
+        1309.5,
+        766.5
+      ],
+      "confidence": 0.8545,
+      "is_talking": true
+    },
+    {
+      "time_sec": 1.459,
+      "source_time_sec": 49.792,
+      "frame": 1195,
+      "bbox_xyxy": [
+        954.0,
+        275.2,
+        1311.0,
+        770.2
+      ],
+      "confidence": 0.8486,
+      "is_talking": true
+    },
+    {
+      "time_sec": 1.667,
+      "source_time_sec": 50.0,
+      "frame": 1200,
+      "bbox_xyxy": [
+        949.5,
+        283.5,
+        1306.5,
+        775.5
+      ],
+      "confidence": 0.8535,
+      "is_talking": true
+    },
+    {
+      "time_sec": 1.875,
+      "source_time_sec": 50.208,
+      "frame": 1205,
+      "bbox_xyxy": [
+        945.0,
+        279.4,
+        1306.5,
+        768.0
+      ],
+      "confidence": 0.8516,
+      "is_talking": true
+    },
+    {
+      "time_sec": 2.084,
+      "source_time_sec": 50.417,
+      "frame": 1210,
+      "bbox_xyxy": [
+        939.0,
+        276.4,
+        1293.0,
+        765.0
+      ],
+      "confidence": 0.8594,
+      "is_talking": true
+    },
+    {
+      "time_sec": 2.292,
+      "source_time_sec": 50.625,
+      "frame": 1215,
+      "bbox_xyxy": [
+        930.0,
+        281.2,
+        1281.0,
+        765.8
+      ],
+      "confidence": 0.8565,
+      "is_talking": true
+    },
+    {
+      "time_sec": 2.5,
+      "source_time_sec": 50.833,
+      "frame": 1220,
+      "bbox_xyxy": [
+        921.0,
+        280.9,
+        1275.0,
+        763.5
+      ],
+      "confidence": 0.8618,
+      "is_talking": true
+    },
+    {
+      "time_sec": 2.709,
+      "source_time_sec": 51.042,
+      "frame": 1225,
+      "bbox_xyxy": [
+        912.8,
+        269.2,
+        1271.2,
+        762.8
+      ],
+      "confidence": 0.8608,
+      "is_talking": true
+    },
+    {
+      "time_sec": 2.917,
+      "source_time_sec": 51.25,
+      "frame": 1230,
+      "bbox_xyxy": [
+        873.0,
+        283.5,
+        1233.0,
+        772.5
+      ],
+      "confidence": 0.8657,
+      "is_talking": true
+    },
+    {
+      "time_sec": 3.125,
+      "source_time_sec": 51.458,
+      "frame": 1235,
+      "bbox_xyxy": [
+        841.5,
+        292.5,
+        1213.5,
+        780.0
+      ],
+      "confidence": 0.8667,
+      "is_talking": true
+    },
+    {
+      "time_sec": 3.334,
+      "source_time_sec": 51.667,
+      "frame": 1240,
+      "bbox_xyxy": [
+        825.0,
+        292.1,
+        1197.0,
+        778.5
+      ],
+      "confidence": 0.8667,
+      "is_talking": true
+    },
+    {
+      "time_sec": 3.542,
+      "source_time_sec": 51.875,
+      "frame": 1245,
+      "bbox_xyxy": [
+        813.8,
+        287.2,
+        1190.2,
+        777.8
+      ],
+      "confidence": 0.8638,
+      "is_talking": true
+    },
+    {
+      "time_sec": 3.75,
+      "source_time_sec": 52.083,
+      "frame": 1250,
+      "bbox_xyxy": [
+        808.5,
+        292.5,
+        1185.0,
+        778.5
+      ],
+      "confidence": 0.8677,
+      "is_talking": true
+    },
+    {
+      "time_sec": 3.959,
+      "source_time_sec": 52.292,
+      "frame": 1255,
+      "bbox_xyxy": [
+        804.0,
+        298.5,
+        1182.0,
+        777.0
+      ],
+      "confidence": 0.8682,
+      "is_talking": true
+    },
+    {
+      "time_sec": 4.167,
+      "source_time_sec": 52.5,
+      "frame": 1260,
+      "bbox_xyxy": [
+        806.2,
+        294.8,
+        1182.8,
+        776.2
+      ],
+      "confidence": 0.8657,
+      "is_talking": true
+    },
+    {
+      "time_sec": 4.375,
+      "source_time_sec": 52.708,
+      "frame": 1265,
+      "bbox_xyxy": [
+        804.0,
+        293.6,
+        1180.5,
+        774.0
+      ],
+      "confidence": 0.8691,
+      "is_talking": true
+    },
+    {
+      "time_sec": 4.584,
+      "source_time_sec": 52.917,
+      "frame": 1270,
+      "bbox_xyxy": [
+        805.5,
+        291.0,
+        1183.5,
+        774.0
+      ],
+      "confidence": 0.8657,
+      "is_talking": true
+    },
+    {
+      "time_sec": 4.792,
+      "source_time_sec": 53.125,
+      "frame": 1275,
+      "bbox_xyxy": [
+        806.2,
+        290.6,
+        1184.2,
+        774.0
+      ],
+      "confidence": 0.8648,
+      "is_talking": true
+    },
+    {
+      "time_sec": 5.0,
+      "source_time_sec": 53.333,
+      "frame": 1280,
+      "bbox_xyxy": [
+        799.5,
+        294.8,
+        1177.5,
+        776.2
+      ],
+      "confidence": 0.8701,
+      "is_talking": true
+    },
+    {
+      "time_sec": 5.209,
+      "source_time_sec": 53.542,
+      "frame": 1285,
+      "bbox_xyxy": [
+        801.0,
+        285.8,
+        1179.0,
+        773.2
+      ],
+      "confidence": 0.8667,
+      "is_talking": true
+    },
+    {
+      "time_sec": 5.417,
+      "source_time_sec": 53.75,
+      "frame": 1290,
+      "bbox_xyxy": [
+        774.0,
+        263.6,
+        1156.5,
+        762.0
+      ],
+      "confidence": 0.8667,
+      "is_talking": true
+    },
+    {
+      "time_sec": 5.625,
+      "source_time_sec": 53.958,
+      "frame": 1295,
+      "bbox_xyxy": [
+        740.6,
+        291.0,
+        1137.0,
+        790.5
+      ],
+      "confidence": 0.8682,
+      "is_talking": true
+    },
+    {
+      "time_sec": 5.834,
+      "source_time_sec": 54.167,
+      "frame": 1300,
+      "bbox_xyxy": [
+        718.5,
+        294.4,
+        1119.0,
+        807.0
+      ],
+      "confidence": 0.8638,
+      "is_talking": true
+    },
+    {
+      "time_sec": 6.042,
+      "source_time_sec": 54.375,
+      "frame": 1305,
+      "bbox_xyxy": [
+        712.1,
+        294.0,
+        1114.5,
+        808.5
+      ],
+      "confidence": 0.8638,
+      "is_talking": true
+    },
+    {
+      "time_sec": 6.25,
+      "source_time_sec": 54.583,
+      "frame": 1310,
+      "bbox_xyxy": [
+        712.9,
+        291.4,
+        1117.5,
+        810.0
+      ],
+      "confidence": 0.8618,
+      "is_talking": true
+    },
+    {
+      "time_sec": 6.459,
+      "source_time_sec": 54.792,
+      "frame": 1315,
+      "bbox_xyxy": [
+        715.5,
+        289.9,
+        1120.5,
+        811.5
+      ],
+      "confidence": 0.8638,
+      "is_talking": true
+    },
+    {
+      "time_sec": 6.667,
+      "source_time_sec": 55.0,
+      "frame": 1320,
+      "bbox_xyxy": [
+        748.5,
+        281.2,
+        1146.0,
+        804.8
+      ],
+      "confidence": 0.8745,
+      "is_talking": true
+    },
+    {
+      "time_sec": 6.875,
+      "source_time_sec": 55.208,
+      "frame": 1325,
+      "bbox_xyxy": [
+        813.8,
+        253.5,
+        1208.2,
+        775.5
+      ],
+      "confidence": 0.8711,
+      "is_talking": true
+    },
+    {
+      "time_sec": 7.084,
+      "source_time_sec": 55.417,
+      "frame": 1330,
+      "bbox_xyxy": [
+        900.0,
+        250.9,
+        1308.0,
+        781.5
+      ],
+      "confidence": 0.8574,
+      "is_talking": true
+    },
+    {
+      "time_sec": 7.292,
+      "source_time_sec": 55.625,
+      "frame": 1335,
+      "bbox_xyxy": [
+        929.2,
+        256.1,
+        1328.2,
+        784.5
+      ],
+      "confidence": 0.8574,
+      "is_talking": true
+    }
+  ]
+}

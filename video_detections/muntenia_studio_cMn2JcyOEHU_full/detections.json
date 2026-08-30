@@ -1,0 +1,5848 @@
+{
+  "source_video": "../videos_raw/muntenia_studio_cMn2JcyOEHU_full.mp4",
+  "source_fps": 50.0,
+  "source_frame_count": 4293,
+  "sample_fps": 5.0,
+  "confidence_threshold": 0.45,
+  "frames": [
+    {
+      "frame": 0,
+      "time_sec": 0.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.75,
+            198.75,
+            1137.75,
+            731.25
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 10,
+      "time_sec": 0.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.0,
+            197.25,
+            1132.5,
+            741.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 20,
+      "time_sec": 0.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            769.5,
+            199.5,
+            1132.5,
+            712.5
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "time_sec": 0.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            199.5,
+            1135.5,
+            720.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 40,
+      "time_sec": 0.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            202.88,
+            1135.5,
+            724.12
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 50,
+      "time_sec": 1.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            207.75,
+            1134.0,
+            704.25
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "time_sec": 1.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            772.5,
+            206.44,
+            1134.0,
+            710.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 70,
+      "time_sec": 1.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            205.12,
+            1134.0,
+            706.12
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 80,
+      "time_sec": 1.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            206.25,
+            1134.0,
+            723.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 90,
+      "time_sec": 1.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            207.0,
+            1135.5,
+            705.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 100,
+      "time_sec": 2.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            210.75,
+            1137.0,
+            723.75
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 110,
+      "time_sec": 2.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            211.5,
+            1137.0,
+            714.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 120,
+      "time_sec": 2.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            213.0,
+            1138.5,
+            725.25
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 130,
+      "time_sec": 2.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            214.5,
+            1140.0,
+            731.25
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 140,
+      "time_sec": 2.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            213.0,
+            1138.5,
+            726.0
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 150,
+      "time_sec": 3.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            214.88,
+            1135.5,
+            715.88
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 160,
+      "time_sec": 3.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.75,
+            216.0,
+            1134.75,
+            728.25
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 170,
+      "time_sec": 3.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            211.31,
+            1134.0,
+            729.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 180,
+      "time_sec": 3.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            211.5,
+            1140.0,
+            722.25
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 190,
+      "time_sec": 3.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            213.0,
+            1144.5,
+            723.75
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 200,
+      "time_sec": 4.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            218.25,
+            1141.5,
+            726.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 210,
+      "time_sec": 4.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            233.25,
+            1143.0,
+            732.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 220,
+      "time_sec": 4.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            231.19,
+            1141.5,
+            735.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 230,
+      "time_sec": 4.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            231.75,
+            1140.0,
+            742.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 240,
+      "time_sec": 4.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            235.5,
+            1135.5,
+            744.75
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 250,
+      "time_sec": 5.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            772.5,
+            228.0,
+            1129.5,
+            732.75
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 260,
+      "time_sec": 5.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            764.62,
+            219.0,
+            1122.0,
+            729.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 270,
+      "time_sec": 5.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            759.75,
+            214.5,
+            1116.75,
+            708.75
+          ],
+          "confidence": 0.87012
+        }
+      ]
+    },
+    {
+      "frame": 280,
+      "time_sec": 5.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            755.25,
+            222.56,
+            1112.25,
+            726.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 290,
+      "time_sec": 5.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            756.75,
+            228.0,
+            1113.75,
+            738.0
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 300,
+      "time_sec": 6.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            760.5,
+            229.5,
+            1119.0,
+            750.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 310,
+      "time_sec": 6.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            769.5,
+            218.25,
+            1126.5,
+            742.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 320,
+      "time_sec": 6.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            218.25,
+            1138.5,
+            730.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 330,
+      "time_sec": 6.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            222.19,
+            1147.5,
+            723.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 340,
+      "time_sec": 6.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            221.25,
+            1150.5,
+            732.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 350,
+      "time_sec": 7.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            222.0,
+            1147.5,
+            727.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 360,
+      "time_sec": 7.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            220.5,
+            1146.0,
+            729.0
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 370,
+      "time_sec": 7.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            786.0,
+            210.19,
+            1144.5,
+            712.5
+          ],
+          "confidence": 0.88428
+        }
+      ]
+    },
+    {
+      "frame": 380,
+      "time_sec": 7.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            207.94,
+            1131.0,
+            696.75
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 390,
+      "time_sec": 7.8,
+      "boxes": []
+    },
+    {
+      "frame": 400,
+      "time_sec": 8.0,
+      "boxes": []
+    },
+    {
+      "frame": 410,
+      "time_sec": 8.2,
+      "boxes": []
+    },
+    {
+      "frame": 420,
+      "time_sec": 8.4,
+      "boxes": []
+    },
+    {
+      "frame": 430,
+      "time_sec": 8.6,
+      "boxes": []
+    },
+    {
+      "frame": 440,
+      "time_sec": 8.8,
+      "boxes": []
+    },
+    {
+      "frame": 450,
+      "time_sec": 9.0,
+      "boxes": []
+    },
+    {
+      "frame": 460,
+      "time_sec": 9.2,
+      "boxes": []
+    },
+    {
+      "frame": 470,
+      "time_sec": 9.4,
+      "boxes": []
+    },
+    {
+      "frame": 480,
+      "time_sec": 9.6,
+      "boxes": []
+    },
+    {
+      "frame": 490,
+      "time_sec": 9.8,
+      "boxes": []
+    },
+    {
+      "frame": 500,
+      "time_sec": 10.0,
+      "boxes": []
+    },
+    {
+      "frame": 510,
+      "time_sec": 10.2,
+      "boxes": []
+    },
+    {
+      "frame": 520,
+      "time_sec": 10.4,
+      "boxes": []
+    },
+    {
+      "frame": 530,
+      "time_sec": 10.6,
+      "boxes": []
+    },
+    {
+      "frame": 540,
+      "time_sec": 10.8,
+      "boxes": []
+    },
+    {
+      "frame": 550,
+      "time_sec": 11.0,
+      "boxes": []
+    },
+    {
+      "frame": 560,
+      "time_sec": 11.2,
+      "boxes": []
+    },
+    {
+      "frame": 570,
+      "time_sec": 11.4,
+      "boxes": []
+    },
+    {
+      "frame": 580,
+      "time_sec": 11.6,
+      "boxes": []
+    },
+    {
+      "frame": 590,
+      "time_sec": 11.8,
+      "boxes": []
+    },
+    {
+      "frame": 600,
+      "time_sec": 12.0,
+      "boxes": []
+    },
+    {
+      "frame": 610,
+      "time_sec": 12.2,
+      "boxes": []
+    },
+    {
+      "frame": 620,
+      "time_sec": 12.4,
+      "boxes": []
+    },
+    {
+      "frame": 630,
+      "time_sec": 12.6,
+      "boxes": []
+    },
+    {
+      "frame": 640,
+      "time_sec": 12.8,
+      "boxes": []
+    },
+    {
+      "frame": 650,
+      "time_sec": 13.0,
+      "boxes": []
+    },
+    {
+      "frame": 660,
+      "time_sec": 13.2,
+      "boxes": []
+    },
+    {
+      "frame": 670,
+      "time_sec": 13.4,
+      "boxes": []
+    },
+    {
+      "frame": 680,
+      "time_sec": 13.6,
+      "boxes": []
+    },
+    {
+      "frame": 690,
+      "time_sec": 13.8,
+      "boxes": []
+    },
+    {
+      "frame": 700,
+      "time_sec": 14.0,
+      "boxes": []
+    },
+    {
+      "frame": 710,
+      "time_sec": 14.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            196.5,
+            1116.0,
+            696.0
+          ],
+          "confidence": 0.85742
+        }
+      ]
+    },
+    {
+      "frame": 720,
+      "time_sec": 14.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            199.12,
+            1137.0,
+            717.38
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 730,
+      "time_sec": 14.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            206.44,
+            1137.0,
+            723.75
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 740,
+      "time_sec": 14.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            228.0,
+            1138.5,
+            748.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 750,
+      "time_sec": 15.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            231.19,
+            1140.0,
+            751.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 760,
+      "time_sec": 15.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            229.69,
+            1140.0,
+            760.5
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 770,
+      "time_sec": 15.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            224.25,
+            1143.0,
+            731.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 780,
+      "time_sec": 15.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            786.0,
+            209.62,
+            1146.0,
+            726.38
+          ],
+          "confidence": 0.88818
+        }
+      ]
+    },
+    {
+      "frame": 790,
+      "time_sec": 15.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            198.38,
+            1146.0,
+            712.12
+          ],
+          "confidence": 0.88623
+        }
+      ]
+    },
+    {
+      "frame": 800,
+      "time_sec": 16.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            185.25,
+            1137.0,
+            699.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 810,
+      "time_sec": 16.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            184.31,
+            1134.0,
+            706.5
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 820,
+      "time_sec": 16.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            188.25,
+            1135.5,
+            716.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 830,
+      "time_sec": 16.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            198.0,
+            1143.0,
+            712.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 840,
+      "time_sec": 16.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            217.88,
+            1147.5,
+            731.62
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 850,
+      "time_sec": 17.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            231.75,
+            1149.0,
+            744.75
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 860,
+      "time_sec": 17.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            228.0,
+            1146.0,
+            744.75
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 870,
+      "time_sec": 17.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            203.81,
+            1144.5,
+            723.0
+          ],
+          "confidence": 0.88672
+        }
+      ]
+    },
+    {
+      "frame": 880,
+      "time_sec": 17.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.75,
+            201.75,
+            1139.25,
+            712.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 890,
+      "time_sec": 17.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            195.19,
+            1137.0,
+            727.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 900,
+      "time_sec": 18.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            766.5,
+            179.25,
+            1126.5,
+            683.25
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 910,
+      "time_sec": 18.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            758.25,
+            169.88,
+            1113.75,
+            671.62
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 920,
+      "time_sec": 18.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            757.5,
+            165.75,
+            1104.0,
+            666.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 930,
+      "time_sec": 18.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            755.25,
+            177.75,
+            1104.75,
+            677.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 940,
+      "time_sec": 18.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            747.0,
+            195.19,
+            1096.5,
+            706.5
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 950,
+      "time_sec": 19.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            743.62,
+            210.75,
+            1095.0,
+            743.25
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 960,
+      "time_sec": 19.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            747.0,
+            229.5,
+            1101.0,
+            737.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 970,
+      "time_sec": 19.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            748.5,
+            234.0,
+            1102.5,
+            744.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 980,
+      "time_sec": 19.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            757.12,
+            234.75,
+            1114.5,
+            756.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 990,
+      "time_sec": 19.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.75,
+            244.69,
+            1136.25,
+            757.5
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 1000,
+      "time_sec": 20.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            246.0,
+            1167.0,
+            750.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1010,
+      "time_sec": 20.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            822.75,
+            240.75,
+            1184.25,
+            741.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1020,
+      "time_sec": 20.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.0,
+            219.75,
+            1170.0,
+            735.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1030,
+      "time_sec": 20.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            204.75,
+            1150.5,
+            717.0
+          ],
+          "confidence": 0.8877
+        }
+      ]
+    },
+    {
+      "frame": 1040,
+      "time_sec": 20.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            203.25,
+            1150.5,
+            714.75
+          ],
+          "confidence": 0.88623
+        }
+      ]
+    },
+    {
+      "frame": 1050,
+      "time_sec": 21.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            206.25,
+            1156.5,
+            720.75
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 1060,
+      "time_sec": 21.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.0,
+            203.62,
+            1171.5,
+            730.12
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1070,
+      "time_sec": 21.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            828.0,
+            197.62,
+            1188.0,
+            718.12
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1080,
+      "time_sec": 21.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            832.5,
+            201.0,
+            1192.5,
+            719.25
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 1090,
+      "time_sec": 21.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            822.0,
+            202.5,
+            1182.0,
+            727.5
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 1100,
+      "time_sec": 22.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            201.75,
+            1158.0,
+            715.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1110,
+      "time_sec": 22.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            202.12,
+            1138.5,
+            722.62
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1120,
+      "time_sec": 22.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            201.0,
+            1128.0,
+            724.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1130,
+      "time_sec": 22.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            195.75,
+            1128.0,
+            724.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1140,
+      "time_sec": 22.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            754.12,
+            198.0,
+            1114.5,
+            710.25
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 1150,
+      "time_sec": 23.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            737.62,
+            197.62,
+            1092.0,
+            710.62
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 1160,
+      "time_sec": 23.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            727.12,
+            208.5,
+            1084.5,
+            725.25
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1170,
+      "time_sec": 23.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            730.12,
+            227.44,
+            1087.5,
+            740.25
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 1180,
+      "time_sec": 23.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            733.88,
+            230.25,
+            1090.5,
+            746.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1190,
+      "time_sec": 23.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            739.88,
+            227.25,
+            1096.5,
+            753.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1200,
+      "time_sec": 24.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            769.5,
+            204.56,
+            1129.5,
+            731.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1210,
+      "time_sec": 24.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            198.75,
+            1159.5,
+            723.75
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1220,
+      "time_sec": 24.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            198.94,
+            1174.5,
+            722.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1230,
+      "time_sec": 24.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            814.5,
+            195.38,
+            1176.0,
+            709.12
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 1240,
+      "time_sec": 24.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            201.19,
+            1167.0,
+            717.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1250,
+      "time_sec": 25.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            216.75,
+            1141.5,
+            730.5
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1260,
+      "time_sec": 25.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.0,
+            225.0,
+            1122.0,
+            753.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1270,
+      "time_sec": 25.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            757.88,
+            231.0,
+            1111.5,
+            744.0
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 1280,
+      "time_sec": 25.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            750.0,
+            232.12,
+            1107.0,
+            745.5
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 1290,
+      "time_sec": 25.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            751.5,
+            231.38,
+            1110.0,
+            753.0
+          ],
+          "confidence": 0.87109
+        }
+      ]
+    },
+    {
+      "frame": 1300,
+      "time_sec": 26.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            228.0,
+            1131.0,
+            742.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1310,
+      "time_sec": 26.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            225.38,
+            1143.0,
+            741.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1320,
+      "time_sec": 26.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            207.0,
+            1140.0,
+            742.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1330,
+      "time_sec": 26.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.75,
+            231.0,
+            1130.25,
+            745.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1340,
+      "time_sec": 26.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            764.62,
+            236.25,
+            1122.0,
+            750.75
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1350,
+      "time_sec": 27.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            764.25,
+            233.25,
+            1122.75,
+            740.25
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1360,
+      "time_sec": 27.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            230.25,
+            1143.0,
+            752.25
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 1370,
+      "time_sec": 27.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            240.38,
+            1152.0,
+            756.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1380,
+      "time_sec": 27.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            234.75,
+            1153.5,
+            750.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1390,
+      "time_sec": 27.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            235.5,
+            1150.5,
+            747.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1400,
+      "time_sec": 28.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            231.75,
+            1149.0,
+            743.25
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1410,
+      "time_sec": 28.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            786.0,
+            223.12,
+            1146.0,
+            730.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1420,
+      "time_sec": 28.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            773.25,
+            218.62,
+            1133.25,
+            732.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1430,
+      "time_sec": 28.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            223.5,
+            1128.0,
+            733.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1440,
+      "time_sec": 28.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            765.75,
+            231.75,
+            1124.25,
+            746.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1450,
+      "time_sec": 29.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            770.25,
+            227.62,
+            1130.25,
+            744.0
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1460,
+      "time_sec": 29.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            199.5,
+            1150.5,
+            727.5
+          ],
+          "confidence": 0.8877
+        }
+      ]
+    },
+    {
+      "frame": 1470,
+      "time_sec": 29.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            204.0,
+            1161.0,
+            721.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1480,
+      "time_sec": 29.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            209.25,
+            1165.5,
+            747.75
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1490,
+      "time_sec": 29.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            207.38,
+            1161.0,
+            729.0
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 1500,
+      "time_sec": 30.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            210.0,
+            1150.5,
+            727.5
+          ],
+          "confidence": 0.88916
+        }
+      ]
+    },
+    {
+      "frame": 1510,
+      "time_sec": 30.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            217.5,
+            1135.5,
+            739.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1520,
+      "time_sec": 30.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            230.25,
+            1126.5,
+            743.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1530,
+      "time_sec": 30.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            768.0,
+            225.0,
+            1129.5,
+            741.0
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1540,
+      "time_sec": 30.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            766.5,
+            201.0,
+            1126.5,
+            718.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1550,
+      "time_sec": 31.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            763.88,
+            200.25,
+            1123.5,
+            711.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1560,
+      "time_sec": 31.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            753.0,
+            190.5,
+            1110.0,
+            709.5
+          ],
+          "confidence": 0.87109
+        }
+      ]
+    },
+    {
+      "frame": 1570,
+      "time_sec": 31.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            744.0,
+            192.75,
+            1099.5,
+            713.25
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1580,
+      "time_sec": 31.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            738.38,
+            202.88,
+            1095.0,
+            715.5
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 1590,
+      "time_sec": 31.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            738.75,
+            220.12,
+            1098.75,
+            730.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1600,
+      "time_sec": 32.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            750.75,
+            228.75,
+            1112.25,
+            741.75
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 1610,
+      "time_sec": 32.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            769.5,
+            226.12,
+            1129.5,
+            742.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1620,
+      "time_sec": 32.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            212.62,
+            1140.0,
+            732.0
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1630,
+      "time_sec": 32.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            223.5,
+            1137.0,
+            735.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1640,
+      "time_sec": 32.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.0,
+            235.12,
+            1128.0,
+            748.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1650,
+      "time_sec": 33.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            762.75,
+            243.75,
+            1118.25,
+            750.75
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 1660,
+      "time_sec": 33.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            752.62,
+            245.25,
+            1110.0,
+            743.25
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1670,
+      "time_sec": 33.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            756.75,
+            225.75,
+            1116.75,
+            734.25
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1680,
+      "time_sec": 33.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            765.75,
+            228.38,
+            1124.25,
+            741.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1690,
+      "time_sec": 33.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.0,
+            226.5,
+            1137.0,
+            741.0
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 1700,
+      "time_sec": 34.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            786.0,
+            231.75,
+            1146.0,
+            743.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1710,
+      "time_sec": 34.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.75,
+            227.25,
+            1149.75,
+            735.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1720,
+      "time_sec": 34.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            230.62,
+            1153.5,
+            753.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 1730,
+      "time_sec": 34.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            235.5,
+            1156.5,
+            748.5
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 1740,
+      "time_sec": 34.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            797.25,
+            231.38,
+            1158.75,
+            759.0
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1750,
+      "time_sec": 35.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            219.75,
+            1156.5,
+            744.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1760,
+      "time_sec": 35.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.75,
+            208.5,
+            1155.75,
+            727.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1770,
+      "time_sec": 35.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            204.0,
+            1156.5,
+            720.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 1780,
+      "time_sec": 35.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            223.12,
+            1159.5,
+            730.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1790,
+      "time_sec": 35.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            221.62,
+            1164.0,
+            735.0
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 1800,
+      "time_sec": 36.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            231.75,
+            1162.5,
+            747.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1810,
+      "time_sec": 36.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            224.25,
+            1164.0,
+            741.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1820,
+      "time_sec": 36.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            224.25,
+            1164.0,
+            743.25
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1830,
+      "time_sec": 36.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            219.0,
+            1161.0,
+            736.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 1840,
+      "time_sec": 36.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            794.25,
+            218.62,
+            1155.75,
+            735.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1850,
+      "time_sec": 37.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            231.75,
+            1149.0,
+            743.25
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 1860,
+      "time_sec": 37.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            226.5,
+            1149.0,
+            738.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 1870,
+      "time_sec": 37.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            222.0,
+            1150.5,
+            738.0
+          ],
+          "confidence": 0.8916
+        }
+      ]
+    },
+    {
+      "frame": 1880,
+      "time_sec": 37.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            210.0,
+            1155.0,
+            720.0
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 1890,
+      "time_sec": 37.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            203.25,
+            1158.0,
+            717.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 1900,
+      "time_sec": 38.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            199.5,
+            1162.5,
+            715.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 1910,
+      "time_sec": 38.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            201.75,
+            1162.5,
+            710.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1920,
+      "time_sec": 38.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            805.5,
+            205.69,
+            1167.0,
+            720.0
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1930,
+      "time_sec": 38.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            202.5,
+            1171.5,
+            713.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 1940,
+      "time_sec": 38.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            195.38,
+            1170.0,
+            707.62
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 1950,
+      "time_sec": 39.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            196.5,
+            1170.0,
+            719.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 1960,
+      "time_sec": 39.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            813.0,
+            194.25,
+            1176.0,
+            704.25
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 1970,
+      "time_sec": 39.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            814.5,
+            215.25,
+            1176.0,
+            724.5
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 1980,
+      "time_sec": 39.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            816.0,
+            213.19,
+            1176.0,
+            732.0
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 1990,
+      "time_sec": 39.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            210.75,
+            1171.5,
+            732.75
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 2000,
+      "time_sec": 40.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.0,
+            208.88,
+            1170.0,
+            725.62
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2010,
+      "time_sec": 40.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            205.5,
+            1170.0,
+            723.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2020,
+      "time_sec": 40.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            203.44,
+            1168.5,
+            722.25
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2030,
+      "time_sec": 40.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            200.25,
+            1171.5,
+            711.0
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 2040,
+      "time_sec": 40.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            203.06,
+            1171.5,
+            723.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2050,
+      "time_sec": 41.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            806.25,
+            207.75,
+            1167.75,
+            731.25
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2060,
+      "time_sec": 41.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            209.25,
+            1162.5,
+            729.75
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2070,
+      "time_sec": 41.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.75,
+            207.19,
+            1155.75,
+            724.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 2080,
+      "time_sec": 41.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            207.56,
+            1153.5,
+            725.25
+          ],
+          "confidence": 0.88818
+        }
+      ]
+    },
+    {
+      "frame": 2090,
+      "time_sec": 41.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            209.25,
+            1153.5,
+            715.5
+          ],
+          "confidence": 0.8877
+        }
+      ]
+    },
+    {
+      "frame": 2100,
+      "time_sec": 42.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.75,
+            209.25,
+            1152.75,
+            725.25
+          ],
+          "confidence": 0.8916
+        }
+      ]
+    },
+    {
+      "frame": 2110,
+      "time_sec": 42.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            212.62,
+            1153.5,
+            729.38
+          ],
+          "confidence": 0.89062
+        }
+      ]
+    },
+    {
+      "frame": 2120,
+      "time_sec": 42.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            211.5,
+            1152.0,
+            732.0
+          ],
+          "confidence": 0.89355
+        }
+      ]
+    },
+    {
+      "frame": 2130,
+      "time_sec": 42.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            211.12,
+            1152.0,
+            725.62
+          ],
+          "confidence": 0.89209
+        }
+      ]
+    },
+    {
+      "frame": 2140,
+      "time_sec": 42.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            223.69,
+            1152.0,
+            732.0
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2150,
+      "time_sec": 43.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            238.5,
+            1150.5,
+            747.0
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2160,
+      "time_sec": 43.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            243.75,
+            1150.5,
+            751.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2170,
+      "time_sec": 43.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            243.94,
+            1150.5,
+            752.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2180,
+      "time_sec": 43.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            228.75,
+            1153.5,
+            754.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 2190,
+      "time_sec": 43.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.75,
+            204.56,
+            1155.75,
+            732.75
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 2200,
+      "time_sec": 44.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            201.38,
+            1156.5,
+            722.62
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2210,
+      "time_sec": 44.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            191.62,
+            1156.5,
+            712.12
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 2220,
+      "time_sec": 44.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            192.94,
+            1159.5,
+            705.75
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 2230,
+      "time_sec": 44.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            196.88,
+            1159.5,
+            708.38
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2240,
+      "time_sec": 44.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            200.25,
+            1162.5,
+            729.0
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2250,
+      "time_sec": 45.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            210.0,
+            1165.5,
+            732.75
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 2260,
+      "time_sec": 45.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            224.25,
+            1165.5,
+            754.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2270,
+      "time_sec": 45.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            227.25,
+            1165.5,
+            741.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2280,
+      "time_sec": 45.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            228.0,
+            1167.0,
+            738.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2290,
+      "time_sec": 45.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            803.25,
+            227.25,
+            1164.75,
+            739.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2300,
+      "time_sec": 46.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            229.5,
+            1162.5,
+            741.0
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2310,
+      "time_sec": 46.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            230.25,
+            1162.5,
+            751.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2320,
+      "time_sec": 46.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            231.94,
+            1164.0,
+            753.75
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2330,
+      "time_sec": 46.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            229.69,
+            1164.0,
+            748.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2340,
+      "time_sec": 46.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            222.0,
+            1165.5,
+            734.25
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2350,
+      "time_sec": 47.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            207.75,
+            1167.0,
+            729.75
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 2360,
+      "time_sec": 47.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            207.0,
+            1168.5,
+            722.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 2370,
+      "time_sec": 47.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.75,
+            222.0,
+            1170.75,
+            740.25
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2380,
+      "time_sec": 47.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            219.75,
+            1171.5,
+            735.0
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 2390,
+      "time_sec": 47.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            816.0,
+            228.0,
+            1176.0,
+            737.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2400,
+      "time_sec": 48.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            225.0,
+            1182.0,
+            740.25
+          ],
+          "confidence": 0.87109
+        }
+      ]
+    },
+    {
+      "frame": 2410,
+      "time_sec": 48.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            222.56,
+            1182.0,
+            732.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2420,
+      "time_sec": 48.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            820.5,
+            220.5,
+            1183.5,
+            736.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2430,
+      "time_sec": 48.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            823.5,
+            213.75,
+            1183.5,
+            724.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2440,
+      "time_sec": 48.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            821.25,
+            210.0,
+            1182.75,
+            735.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 2450,
+      "time_sec": 49.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            213.75,
+            1180.5,
+            727.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2460,
+      "time_sec": 49.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            818.25,
+            214.5,
+            1179.75,
+            729.75
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 2470,
+      "time_sec": 49.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            817.5,
+            218.25,
+            1180.5,
+            731.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2480,
+      "time_sec": 49.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            216.75,
+            1179.0,
+            729.75
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2490,
+      "time_sec": 49.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            813.0,
+            219.94,
+            1171.5,
+            729.75
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2500,
+      "time_sec": 50.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            216.75,
+            1167.0,
+            729.0
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 2510,
+      "time_sec": 50.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            214.5,
+            1168.5,
+            726.0
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2520,
+      "time_sec": 50.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            816.75,
+            215.25,
+            1178.25,
+            734.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2530,
+      "time_sec": 50.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            224.25,
+            1182.0,
+            732.75
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2540,
+      "time_sec": 50.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            818.25,
+            215.25,
+            1181.25,
+            746.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 2550,
+      "time_sec": 51.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            820.5,
+            199.88,
+            1182.0,
+            730.88
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2560,
+      "time_sec": 51.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            820.5,
+            207.0,
+            1183.5,
+            733.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2570,
+      "time_sec": 51.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            817.5,
+            226.12,
+            1179.0,
+            739.5
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 2580,
+      "time_sec": 51.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            817.5,
+            223.12,
+            1177.5,
+            736.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2590,
+      "time_sec": 51.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.0,
+            222.38,
+            1182.0,
+            735.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 2600,
+      "time_sec": 52.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            820.5,
+            224.62,
+            1183.5,
+            738.0
+          ],
+          "confidence": 0.86816
+        }
+      ]
+    },
+    {
+      "frame": 2610,
+      "time_sec": 52.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            819.75,
+            223.5,
+            1182.75,
+            735.0
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 2620,
+      "time_sec": 52.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            818.25,
+            225.0,
+            1179.75,
+            741.0
+          ],
+          "confidence": 0.87109
+        }
+      ]
+    },
+    {
+      "frame": 2630,
+      "time_sec": 52.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            814.5,
+            228.75,
+            1176.0,
+            746.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 2640,
+      "time_sec": 52.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            231.75,
+            1171.5,
+            753.75
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2650,
+      "time_sec": 53.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            229.5,
+            1168.5,
+            751.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2660,
+      "time_sec": 53.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            203.25,
+            1171.5,
+            734.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 2670,
+      "time_sec": 53.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.75,
+            204.0,
+            1163.25,
+            729.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 2680,
+      "time_sec": 53.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            209.62,
+            1155.0,
+            720.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2690,
+      "time_sec": 53.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            206.25,
+            1153.5,
+            722.25
+          ],
+          "confidence": 0.88672
+        }
+      ]
+    },
+    {
+      "frame": 2700,
+      "time_sec": 54.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            207.38,
+            1155.0,
+            735.0
+          ],
+          "confidence": 0.88428
+        }
+      ]
+    },
+    {
+      "frame": 2710,
+      "time_sec": 54.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            207.38,
+            1156.5,
+            723.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2720,
+      "time_sec": 54.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            206.62,
+            1156.5,
+            726.0
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2730,
+      "time_sec": 54.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            223.5,
+            1158.0,
+            733.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 2740,
+      "time_sec": 54.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            226.12,
+            1164.0,
+            739.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2750,
+      "time_sec": 55.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            222.0,
+            1167.0,
+            732.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2760,
+      "time_sec": 55.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            212.25,
+            1167.0,
+            734.25
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 2770,
+      "time_sec": 55.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.75,
+            210.38,
+            1166.25,
+            732.0
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 2780,
+      "time_sec": 55.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            805.5,
+            228.0,
+            1165.5,
+            754.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2790,
+      "time_sec": 55.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.75,
+            246.75,
+            1161.75,
+            767.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2800,
+      "time_sec": 56.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            246.38,
+            1161.0,
+            759.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2810,
+      "time_sec": 56.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            228.0,
+            1164.0,
+            745.5
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 2820,
+      "time_sec": 56.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            215.25,
+            1162.5,
+            743.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 2830,
+      "time_sec": 56.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            791.25,
+            216.0,
+            1151.25,
+            732.0
+          ],
+          "confidence": 0.8916
+        }
+      ]
+    },
+    {
+      "frame": 2840,
+      "time_sec": 56.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            208.5,
+            1141.5,
+            724.5
+          ],
+          "confidence": 0.88428
+        }
+      ]
+    },
+    {
+      "frame": 2850,
+      "time_sec": 57.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            204.0,
+            1141.5,
+            717.0
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 2860,
+      "time_sec": 57.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            207.75,
+            1155.0,
+            728.25
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2870,
+      "time_sec": 57.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.75,
+            211.12,
+            1166.25,
+            727.5
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 2880,
+      "time_sec": 57.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.0,
+            208.5,
+            1170.0,
+            727.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2890,
+      "time_sec": 57.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            209.25,
+            1170.0,
+            735.75
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 2900,
+      "time_sec": 58.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.75,
+            208.5,
+            1161.75,
+            730.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 2910,
+      "time_sec": 58.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            211.5,
+            1159.5,
+            726.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 2920,
+      "time_sec": 58.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            215.62,
+            1159.5,
+            726.0
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 2930,
+      "time_sec": 58.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            224.25,
+            1161.0,
+            740.25
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2940,
+      "time_sec": 58.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            800.25,
+            229.5,
+            1161.75,
+            748.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 2950,
+      "time_sec": 59.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            247.5,
+            1161.0,
+            759.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2960,
+      "time_sec": 59.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.0,
+            249.0,
+            1162.5,
+            759.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2970,
+      "time_sec": 59.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            246.0,
+            1165.5,
+            768.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2980,
+      "time_sec": 59.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            223.5,
+            1167.0,
+            742.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 2990,
+      "time_sec": 59.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            218.62,
+            1164.0,
+            729.0
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 3000,
+      "time_sec": 60.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            212.25,
+            1162.5,
+            723.75
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3010,
+      "time_sec": 60.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            204.75,
+            1159.5,
+            729.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 3020,
+      "time_sec": 60.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            801.75,
+            205.88,
+            1163.25,
+            727.5
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3030,
+      "time_sec": 60.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            805.5,
+            204.38,
+            1165.5,
+            714.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3040,
+      "time_sec": 60.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            205.12,
+            1164.0,
+            718.5
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3050,
+      "time_sec": 61.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            800.25,
+            210.38,
+            1161.75,
+            732.0
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 3060,
+      "time_sec": 61.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            204.75,
+            1158.0,
+            723.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 3070,
+      "time_sec": 61.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            198.38,
+            1155.0,
+            711.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3080,
+      "time_sec": 61.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            202.12,
+            1153.5,
+            724.5
+          ],
+          "confidence": 0.88428
+        }
+      ]
+    },
+    {
+      "frame": 3090,
+      "time_sec": 61.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            205.88,
+            1153.5,
+            721.5
+          ],
+          "confidence": 0.88818
+        }
+      ]
+    },
+    {
+      "frame": 3100,
+      "time_sec": 62.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            213.75,
+            1153.5,
+            731.25
+          ],
+          "confidence": 0.89502
+        }
+      ]
+    },
+    {
+      "frame": 3110,
+      "time_sec": 62.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            222.0,
+            1152.0,
+            736.5
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 3120,
+      "time_sec": 62.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.75,
+            206.62,
+            1149.75,
+            738.0
+          ],
+          "confidence": 0.8916
+        }
+      ]
+    },
+    {
+      "frame": 3130,
+      "time_sec": 62.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            193.88,
+            1150.5,
+            715.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 3140,
+      "time_sec": 62.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.75,
+            200.62,
+            1149.75,
+            711.0
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 3150,
+      "time_sec": 63.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            199.88,
+            1153.5,
+            709.5
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 3160,
+      "time_sec": 63.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            795.0,
+            198.0,
+            1155.0,
+            717.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3170,
+      "time_sec": 63.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            196.5,
+            1149.0,
+            715.5
+          ],
+          "confidence": 0.88281
+        }
+      ]
+    },
+    {
+      "frame": 3180,
+      "time_sec": 63.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            190.5,
+            1144.5,
+            702.0
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3190,
+      "time_sec": 63.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            193.12,
+            1144.5,
+            709.5
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 3200,
+      "time_sec": 64.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            787.5,
+            200.81,
+            1147.5,
+            712.5
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 3210,
+      "time_sec": 64.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            214.12,
+            1150.5,
+            729.38
+          ],
+          "confidence": 0.88818
+        }
+      ]
+    },
+    {
+      "frame": 3220,
+      "time_sec": 64.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            228.19,
+            1140.0,
+            762.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3230,
+      "time_sec": 64.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            233.25,
+            1137.0,
+            763.5
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3240,
+      "time_sec": 64.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.75,
+            246.75,
+            1134.75,
+            759.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3250,
+      "time_sec": 65.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            246.0,
+            1134.0,
+            754.5
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3260,
+      "time_sec": 65.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            242.25,
+            1135.5,
+            757.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3270,
+      "time_sec": 65.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            233.25,
+            1135.5,
+            754.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 3280,
+      "time_sec": 65.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            234.75,
+            1135.5,
+            745.5
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 3290,
+      "time_sec": 65.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            773.25,
+            230.25,
+            1133.25,
+            748.5
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 3300,
+      "time_sec": 66.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            764.25,
+            233.25,
+            1121.25,
+            756.75
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3310,
+      "time_sec": 66.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            762.0,
+            232.5,
+            1120.5,
+            748.5
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 3320,
+      "time_sec": 66.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            762.75,
+            237.19,
+            1121.25,
+            757.5
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 3330,
+      "time_sec": 66.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            766.12,
+            234.75,
+            1123.5,
+            746.25
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 3340,
+      "time_sec": 66.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            230.06,
+            1134.0,
+            753.75
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 3350,
+      "time_sec": 67.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            228.56,
+            1156.5,
+            744.75
+          ],
+          "confidence": 0.87207
+        }
+      ]
+    },
+    {
+      "frame": 3360,
+      "time_sec": 67.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            816.0,
+            233.81,
+            1176.0,
+            750.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3370,
+      "time_sec": 67.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            822.0,
+            228.75,
+            1182.0,
+            746.25
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 3380,
+      "time_sec": 67.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            810.75,
+            218.25,
+            1170.75,
+            747.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3390,
+      "time_sec": 67.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            210.94,
+            1149.0,
+            749.25
+          ],
+          "confidence": 0.8877
+        }
+      ]
+    },
+    {
+      "frame": 3400,
+      "time_sec": 68.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            776.25,
+            224.25,
+            1134.75,
+            733.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3410,
+      "time_sec": 68.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            769.5,
+            225.0,
+            1126.5,
+            732.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3420,
+      "time_sec": 68.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            772.5,
+            222.0,
+            1132.5,
+            731.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3430,
+      "time_sec": 68.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            228.56,
+            1140.0,
+            746.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3440,
+      "time_sec": 68.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.75,
+            234.0,
+            1152.75,
+            754.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3450,
+      "time_sec": 69.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            812.25,
+            234.0,
+            1173.75,
+            750.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3460,
+      "time_sec": 69.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            840.0,
+            225.19,
+            1206.0,
+            748.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3470,
+      "time_sec": 69.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            846.0,
+            222.0,
+            1209.0,
+            728.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3480,
+      "time_sec": 69.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            828.75,
+            227.25,
+            1190.25,
+            739.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3490,
+      "time_sec": 69.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.75,
+            210.75,
+            1169.25,
+            728.25
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3500,
+      "time_sec": 70.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            777.75,
+            204.56,
+            1139.25,
+            722.25
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 3510,
+      "time_sec": 70.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            752.25,
+            209.25,
+            1113.75,
+            727.5
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3520,
+      "time_sec": 70.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            747.75,
+            209.25,
+            1107.75,
+            727.5
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 3530,
+      "time_sec": 70.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            760.5,
+            208.69,
+            1120.5,
+            723.0
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3540,
+      "time_sec": 70.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            786.0,
+            204.19,
+            1146.0,
+            717.0
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 3550,
+      "time_sec": 71.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            802.5,
+            203.81,
+            1164.0,
+            714.0
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3560,
+      "time_sec": 71.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            807.0,
+            203.25,
+            1168.5,
+            725.25
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3570,
+      "time_sec": 71.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            201.75,
+            1152.0,
+            710.25
+          ],
+          "confidence": 0.88525
+        },
+        {
+          "bbox_xyxy": [
+            0.0,
+            45.38,
+            120.94,
+            314.25
+          ],
+          "confidence": 0.73047
+        }
+      ]
+    },
+    {
+      "frame": 3580,
+      "time_sec": 71.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            783.0,
+            197.25,
+            1141.5,
+            710.25
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3590,
+      "time_sec": 71.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            775.5,
+            191.25,
+            1135.5,
+            704.25
+          ],
+          "confidence": 0.87354
+        }
+      ]
+    },
+    {
+      "frame": 3600,
+      "time_sec": 72.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            772.5,
+            197.25,
+            1126.5,
+            708.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3610,
+      "time_sec": 72.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.0,
+            203.81,
+            1125.0,
+            727.5
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3620,
+      "time_sec": 72.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            767.62,
+            217.31,
+            1122.0,
+            742.5
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3630,
+      "time_sec": 72.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            767.62,
+            224.25,
+            1125.0,
+            729.75
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3640,
+      "time_sec": 72.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            771.0,
+            223.31,
+            1131.0,
+            744.0
+          ],
+          "confidence": 0.87012
+        }
+      ]
+    },
+    {
+      "frame": 3650,
+      "time_sec": 73.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            204.56,
+            1141.5,
+            723.75
+          ],
+          "confidence": 0.88525
+        }
+      ]
+    },
+    {
+      "frame": 3660,
+      "time_sec": 73.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.0,
+            203.06,
+            1149.0,
+            717.75
+          ],
+          "confidence": 0.88623
+        }
+      ]
+    },
+    {
+      "frame": 3670,
+      "time_sec": 73.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            200.81,
+            1156.5,
+            709.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3680,
+      "time_sec": 73.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            805.5,
+            190.5,
+            1165.5,
+            706.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3690,
+      "time_sec": 73.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            199.5,
+            1171.5,
+            720.0
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 3700,
+      "time_sec": 74.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            237.94,
+            1171.5,
+            750.75
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3710,
+      "time_sec": 74.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            806.25,
+            238.5,
+            1167.75,
+            753.0
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3720,
+      "time_sec": 74.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            244.5,
+            1162.5,
+            747.0
+          ],
+          "confidence": 0.87598
+        }
+      ]
+    },
+    {
+      "frame": 3730,
+      "time_sec": 74.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            778.5,
+            214.69,
+            1135.5,
+            723.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3740,
+      "time_sec": 74.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            765.75,
+            213.75,
+            1118.25,
+            725.25
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3750,
+      "time_sec": 75.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            759.38,
+            214.5,
+            1113.0,
+            744.0
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 3760,
+      "time_sec": 75.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            754.5,
+            229.69,
+            1110.0,
+            735.0
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 3770,
+      "time_sec": 75.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            754.88,
+            236.25,
+            1111.5,
+            753.0
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 3780,
+      "time_sec": 75.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            755.25,
+            236.25,
+            1112.25,
+            750.0
+          ],
+          "confidence": 0.87256
+        }
+      ]
+    },
+    {
+      "frame": 3790,
+      "time_sec": 75.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            759.0,
+            234.0,
+            1114.5,
+            748.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3800,
+      "time_sec": 76.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            757.5,
+            239.25,
+            1116.0,
+            753.0
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3810,
+      "time_sec": 76.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            759.0,
+            236.81,
+            1117.5,
+            745.5
+          ],
+          "confidence": 0.87451
+        }
+      ]
+    },
+    {
+      "frame": 3820,
+      "time_sec": 76.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            774.0,
+            227.25,
+            1135.5,
+            748.5
+          ],
+          "confidence": 0.87549
+        }
+      ]
+    },
+    {
+      "frame": 3830,
+      "time_sec": 76.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            217.5,
+            1159.5,
+            733.5
+          ],
+          "confidence": 0.88428
+        }
+      ]
+    },
+    {
+      "frame": 3840,
+      "time_sec": 76.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            811.5,
+            214.69,
+            1173.0,
+            742.5
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 3850,
+      "time_sec": 77.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            813.0,
+            204.94,
+            1174.5,
+            726.75
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3860,
+      "time_sec": 77.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            808.5,
+            215.81,
+            1170.0,
+            730.5
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 3870,
+      "time_sec": 77.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            804.0,
+            215.25,
+            1167.0,
+            736.5
+          ],
+          "confidence": 0.88379
+        }
+      ]
+    },
+    {
+      "frame": 3880,
+      "time_sec": 77.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            793.5,
+            210.75,
+            1153.5,
+            732.0
+          ],
+          "confidence": 0.8916
+        }
+      ]
+    },
+    {
+      "frame": 3890,
+      "time_sec": 77.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            792.0,
+            212.62,
+            1152.0,
+            730.88
+          ],
+          "confidence": 0.89307
+        }
+      ]
+    },
+    {
+      "frame": 3900,
+      "time_sec": 78.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            789.75,
+            206.25,
+            1149.75,
+            729.0
+          ],
+          "confidence": 0.89014
+        }
+      ]
+    },
+    {
+      "frame": 3910,
+      "time_sec": 78.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            199.5,
+            1152.0,
+            727.5
+          ],
+          "confidence": 0.88916
+        }
+      ]
+    },
+    {
+      "frame": 3920,
+      "time_sec": 78.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            796.5,
+            200.25,
+            1156.5,
+            720.75
+          ],
+          "confidence": 0.87793
+        }
+      ]
+    },
+    {
+      "frame": 3930,
+      "time_sec": 78.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            799.5,
+            204.75,
+            1159.5,
+            723.75
+          ],
+          "confidence": 0.87695
+        }
+      ]
+    },
+    {
+      "frame": 3940,
+      "time_sec": 78.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            800.25,
+            205.12,
+            1163.25,
+            730.88
+          ],
+          "confidence": 0.87939
+        }
+      ]
+    },
+    {
+      "frame": 3950,
+      "time_sec": 79.0,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            798.0,
+            207.75,
+            1161.0,
+            726.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3960,
+      "time_sec": 79.2,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            790.5,
+            226.5,
+            1150.5,
+            738.0
+          ],
+          "confidence": 0.87891
+        }
+      ]
+    },
+    {
+      "frame": 3970,
+      "time_sec": 79.4,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            784.5,
+            237.75,
+            1144.5,
+            765.0
+          ],
+          "confidence": 0.88184
+        }
+      ]
+    },
+    {
+      "frame": 3980,
+      "time_sec": 79.6,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            780.0,
+            246.19,
+            1140.0,
+            759.0
+          ],
+          "confidence": 0.88135
+        }
+      ]
+    },
+    {
+      "frame": 3990,
+      "time_sec": 79.8,
+      "boxes": [
+        {
+          "bbox_xyxy": [
+            781.5,
+            246.75,
+            1141.5,
+            751.5
+          ],
+          "confidence": 0.88037
+        }
+      ]
+    },
+    {
+      "frame": 4000,
+      "time_sec": 80.0,
+      "boxes": []
+    },
+    {
+      "frame": 4010,
+      "time_sec": 80.2,
+      "boxes": []
+    },
+    {
+      "frame": 4020,
+      "time_sec": 80.4,
+      "boxes": []
+    },
+    {
+      "frame": 4030,
+      "time_sec": 80.6,
+      "boxes": []
+    },
+    {
+      "frame": 4040,
+      "time_sec": 80.8,
+      "boxes": []
+    },
+    {
+      "frame": 4050,
+      "time_sec": 81.0,
+      "boxes": []
+    },
+    {
+      "frame": 4060,
+      "time_sec": 81.2,
+      "boxes": []
+    },
+    {
+      "frame": 4070,
+      "time_sec": 81.4,
+      "boxes": []
+    },
+    {
+      "frame": 4080,
+      "time_sec": 81.6,
+      "boxes": []
+    },
+    {
+      "frame": 4090,
+      "time_sec": 81.8,
+      "boxes": []
+    },
+    {
+      "frame": 4100,
+      "time_sec": 82.0,
+      "boxes": []
+    },
+    {
+      "frame": 4110,
+      "time_sec": 82.2,
+      "boxes": []
+    },
+    {
+      "frame": 4120,
+      "time_sec": 82.4,
+      "boxes": []
+    },
+    {
+      "frame": 4130,
+      "time_sec": 82.6,
+      "boxes": []
+    },
+    {
+      "frame": 4140,
+      "time_sec": 82.8,
+      "boxes": []
+    },
+    {
+      "frame": 4150,
+      "time_sec": 83.0,
+      "boxes": []
+    },
+    {
+      "frame": 4160,
+      "time_sec": 83.2,
+      "boxes": []
+    },
+    {
+      "frame": 4170,
+      "time_sec": 83.4,
+      "boxes": []
+    },
+    {
+      "frame": 4180,
+      "time_sec": 83.6,
+      "boxes": []
+    },
+    {
+      "frame": 4190,
+      "time_sec": 83.8,
+      "boxes": []
+    },
+    {
+      "frame": 4200,
+      "time_sec": 84.0,
+      "boxes": []
+    },
+    {
+      "frame": 4210,
+      "time_sec": 84.2,
+      "boxes": []
+    },
+    {
+      "frame": 4220,
+      "time_sec": 84.4,
+      "boxes": []
+    },
+    {
+      "frame": 4230,
+      "time_sec": 84.6,
+      "boxes": []
+    },
+    {
+      "frame": 4240,
+      "time_sec": 84.8,
+      "boxes": []
+    },
+    {
+      "frame": 4250,
+      "time_sec": 85.0,
+      "boxes": []
+    },
+    {
+      "frame": 4260,
+      "time_sec": 85.2,
+      "boxes": []
+    },
+    {
+      "frame": 4270,
+      "time_sec": 85.4,
+      "boxes": []
+    },
+    {
+      "frame": 4280,
+      "time_sec": 85.6,
+      "boxes": []
+    },
+    {
+      "frame": 4290,
+      "time_sec": 85.8,
+      "boxes": []
+    }
+  ]
+}
